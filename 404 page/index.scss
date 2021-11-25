@@ -23,6 +23,7 @@ body {
 
     &__right {
         width: 50%;
+        flex-grow: 3;
 
         h1 {
             font-weight: bold;
